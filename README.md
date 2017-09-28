@@ -1,2 +1,2 @@
 # hellow-world
-New repository
+HI, I'm fllowing the guide to modify my file.
